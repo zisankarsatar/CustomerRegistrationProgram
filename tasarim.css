@@ -1,0 +1,28 @@
+body
+{
+    background-image:url(resim/arka2.jpg); 
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    background-attachment: fixed;
+}
+
+#bolumStili
+{
+    background-color:whitesmoke;
+    border: 2px solid whitesmoke;
+    border-radius: 15px; 
+    border:"1";
+}
+
+#icerik{
+    width:650px;
+    background:#fff;
+    padding:20px;
+    font:14px/1.8em Arial;
+    margin:40px auto;
+    border-radius:10px;
+    color:#333;
+}
+#icerik p{
+    margin-bottom:15px;
+}

@@ -1,6 +1,6 @@
 # CustomerRegistrationProgram
 PHP-MySql
-
+http://localhost:81/CRM/index.php
 Web tabanlı Müşteri kayıt projesi
 
 2019 yazı gönüllü stajta PHP ve MySQL ile ilgilendim. Bu projeyide öğrenirken geliştirdim.
